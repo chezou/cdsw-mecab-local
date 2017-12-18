@@ -1,0 +1,9 @@
+name: python3.6
+channels:
+- chezou
+- defaults
+dependencies:
+- mecab=0.996=1
+- libgcc=5.2.0=0
+prefix: /home/cdsw/.conda/envs/python3.6
+
